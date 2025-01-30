@@ -7,7 +7,7 @@ A Spring Batch application that reads customer data from a CSV file and loads it
         <img src="https://img.shields.io/badge/Java-v17-blue.svg" />
     </a>
     <a alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Spring%20Boot-v3.3.3-brightgreen.svg" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-v3.4.2-brightgreen.svg" />
     </a>
     <a alt="Maven">
         <img src="https://img.shields.io/badge/Maven-v4.0.0-orange.svg" />
