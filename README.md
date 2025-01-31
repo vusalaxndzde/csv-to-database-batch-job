@@ -36,4 +36,4 @@ A Spring Batch application that reads customer data from a CSV file and loads it
 
 ```bash
 git clone https://github.com/vusalaxndzde/spring-batch-customer-import.git
-cd spring-batch-customer-import
+cd csv-to-database-batch-job
